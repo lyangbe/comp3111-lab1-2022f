@@ -1,2 +1,2 @@
 20677225
-![git history](./git history.PNG)
+![history](https://github.com/lyangbe/comp3111-lab1-2022f/blob/master/history.PNG?raw=true)
